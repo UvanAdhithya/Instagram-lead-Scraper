@@ -11,6 +11,3 @@
 3. DO NOT OPEN Excel file while script is running. Will corrupt the spreadsheet
 4. "login_details.pkl" is created and stores login credentials
 5. The gibberish in the "Bio" field are non convertible utf-8 coded emojis. So no important data is lost
-
-
-
