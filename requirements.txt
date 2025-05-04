@@ -1,0 +1,10 @@
+-> Python required
+- > pip install all the below modules
+selenium
+time
+bs4
+pandas
+pickle
+os
+re
+chromedriver_autoinstaller
