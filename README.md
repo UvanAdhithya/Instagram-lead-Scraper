@@ -1,4 +1,4 @@
-# Instagram Lead Scraper
+# InstagramLeadScraper
 
 An automated Instagram lead scraper that logs in, searches for posts under specified hashtags, extracts influencer profiles, and calculates engagement rates — helping you discover high-potential leads for your business.
 
@@ -48,8 +48,8 @@ A CSV file with:
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/InstaLeadScraper.git
-   cd InstaLeadScraper
+   git clone https://github.com/yourusername/InstagramLeadScraper.git
+   cd InstagramLeadScraper
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
