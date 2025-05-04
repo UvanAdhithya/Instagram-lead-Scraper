@@ -1,4 +1,4 @@
-# InstaLeadScraper
+# Instagram Lead Scraper
 
 An automated Instagram lead scraper that logs in, searches for posts under specified hashtags, extracts influencer profiles, and calculates engagement rates — helping you discover high-potential leads for your business.
 
