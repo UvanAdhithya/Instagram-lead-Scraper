@@ -48,8 +48,8 @@ A CSV file with:
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/InstagramLeadScraper.git
-   cd InstagramLeadScraper
+   git clone https://github.com/yourusername/Instagram-lead-Scraper.git
+   cd Instagram-lead-Scraper
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
