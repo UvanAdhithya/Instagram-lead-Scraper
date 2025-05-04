@@ -50,3 +50,9 @@ A CSV file with:
    ```bash
    git clone https://github.com/yourusername/InstaLeadScraper.git
    cd InstaLeadScraper
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+3. **Run program**
+   ```bash
+   python igScraper.py
