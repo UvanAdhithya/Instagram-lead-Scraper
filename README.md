@@ -57,7 +57,7 @@ A CSV file with:
    ```bash
    python igScraper.py
 4. **Create Executable**(optional)
-   Run these cmds from the directory containing igSraper.py
+   - Run these cmds from the directory containing igSraper.py
    ```bash
    pip install pyinstaller
    pyinstaller --onefile --add-data "login_details.pkl:." your_script.py
