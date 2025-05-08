@@ -364,9 +364,6 @@ get_html(driver)
 # VISIT each link directly
 hrefs = search_keyword(driver, keyword)
 
-# Before switching to headless
-#input("🔍 After clicking on search icon and results load, press ENTER to continue...")
-
 #Switch
 driver = switch_to_headless(driver, website)
 
@@ -375,8 +372,6 @@ for link in hrefs: # Each link is a hashtag
     driver.get(link)
     print("Now visiting: ", link)
 
-    #time.sleep(3) # wait to load be4 scraping
-    #scrapefunction
     try:
         post_results = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "_aagu")))
     except TimeoutException:
